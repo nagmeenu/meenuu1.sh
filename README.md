@@ -1,1 +1,0 @@
-# meenuu1.sh
